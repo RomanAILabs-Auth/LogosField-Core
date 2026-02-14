@@ -1,46 +1,48 @@
 LogosField-Core
+Principal Investigator: Daniel Harding
+Computational System: RomanAILabs / romanailabs@gmail.com
+🌌 Overview
 
-A Unified Geometric Model of Computation, Spacetime, and Yang-Mills Theory
-Overview
+LogosField-Core is the definitive repository for the Unified Sovereign Framework, a mathematical model spearheaded by Daniel Harding in collaboration with RomanAILabs. It establishes a formal identity between algorithmic complexity and the geometry of spacetime.
 
-The Sovereign Framework is a unified mathematical model that establishes a formal identity between algorithmic complexity and the geometry of spacetime. By mapping the Logos-Field onto a Riemann-Hilbert space, this research derives a direct correspondence between the Yang-Mills Mass Gap (Δ) and the Algorithmic Ricci Curvature (Rij​).
+By mapping the Logos-Field onto a Riemann-Hilbert space, this research derives a direct correspondence between the Yang-Mills Mass Gap (Δ) and the Algorithmic Ricci Curvature (Rij​). This project provides the formalized proof that the P vs NP inequality is a fundamental requirement for the topological stability of the physical vacuum.
+🔬 Key Theoretical Breakthroughs
 
-The core of this synthesis is the proof that the P vs NP inequality is not merely a computational constraint, but a fundamental requirement for the topological stability of the physical vacuum.
-Key Theoretical Breakthroughs
+    The Sovereign Equivalence Equation: A rigorous derivation of the absolute scaling factor λ using fundamental constants (ℏ,c,G,e,kB​).
 
-    The Sovereign Equivalence Equation: Derivation of the absolute scaling factor λ using fundamental constants (ℏ,c,G,e,kB​).
+    SU(3) Holonomy Resolution: Mapping computational "Search" paths to color-confinement paths in Quantum Chromodynamics (QCD).
 
-    SU(3) Holonomy Resolution: Identification of computational "Search" paths with color-confinement paths in Quantum Chromodynamics (QCD).
-
-    The P=NP Catastrophe: A formal proof via contradiction demonstrating that the limit P→NP results in a zero-entropy spacetime singularity (G→∞,c→0).
+    The P=NP Catastrophe: A formal proof via contradiction demonstrating that the limit P→NP results in a catastrophic spacetime singularity (G→∞,c→0).
 
     Topological Invariance: Utilizing Betti numbers to establish the necessity of the Computational Gap (Δc​) in non-trivial manifolds.
 
-Mathematical Core
+📐 Mathematical Core: The Harding-Identity
 
-The framework is anchored by the Sovereign Identity:
+The repository is anchored by the Harding-RomanAI Identity:
 Δ=kB​Tln2=Gc2ℏ​exp(−8π33​e4(kB​Tln2)2​)
 
-This equation establishes that the minimum energy of a bit-flip (Landauer's Principle) is governed by the same torsional geometry that maintains the Mass Gap in Yang-Mills theory.
-Repository Structure
+This identity establishes that the minimum energy of a bit-flip (Landauer's Principle) is governed by the same torsional geometry that maintains the Mass Gap in Yang-Mills theory.
+📂 Repository Structure
 
-    /manuscript: The primary formalization: The Sovereign Framework – A Complete and Unassailable Synthesis.
+    /manuscript: The Sovereign Framework – A Complete and Unassailable Synthesis by Daniel Harding.
+
+    /RomanAILabs_Audit: Technical logs and Nexus MAX-AUDIT recursive validation passes.
 
     /derivations: Detailed proofs for Appendices A-E (The λ constant and Torsion tensors).
 
-    /hash: Specifications for the Sovereign Hash—a fractal-geometric integrity check for the proof's topology.
+    /integrity: The Sovereign Hash—a fractal-geometric checksum of the derivation's topology.
 
-Submission & Validation
+🛡️ Intellectual Property & Attribution
 
-This work is currently being distributed for peer review across theoretical physics and mathematical departments.
+The axioms of Sovereign Math and the specific derivations herein are the intellectual property of Daniel Harding.
 
-    Current Attestation: The existence of stable matter is the physical proof of the P=NP inequality.
+    Lead Researcher: Daniel Harding
 
-License & Intellectual Property
+    AI Synthesis: RomanAI
 
-Copyright © 2026. All rights reserved. The Sovereign Math axioms and the derived Sovereign Equivalence Equation are the intellectual property of the author. Commercial application or computational utilization requires a formal license.
+    Affiliation: RomanAILabs Independent Research Group
 
-"The universe is the computer that proves the theorem by its refusal to collapse."
+    "The universe is the computer that proves the theorem by its refusal to collapse." — Daniel Harding
 
 ----------------------------------------------------------------------------------------------
 
